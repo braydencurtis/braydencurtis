@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @braydencurtis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 brayden@mochi.no
+- 👀 I’m interested in ... Game Development in Godot
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Anything!!
+- 📫 braydencurtis@gmail.com
 
 <!---
 braydencurtis/braydencurtis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
